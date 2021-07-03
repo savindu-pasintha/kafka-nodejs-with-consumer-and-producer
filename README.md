@@ -16,6 +16,9 @@ A kafka producer/consumer proof of concept using node.
 ## Running locally
 
 * `npm install` - installs npm dependencies.
+node-rdkafka - https://www.npmjs.com/package/node-rdkafka 
+avsc (for serialization & de-serialization) -https://www.npmjs.com/package/avsc
+
 * `./scripts/start-kafka.sh` - starts kafka inside docker container.
 * `./scripts/create-topic.sh` - creates kafka topic.
 * cmd run to comsumer and produser
