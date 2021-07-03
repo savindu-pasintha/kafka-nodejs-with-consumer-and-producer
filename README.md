@@ -1,6 +1,8 @@
-# node-kafka-producer-consumer
+# kafka-producer-consumer
+£kafca used for realtime milions of streaming and monitoring , event acces, message pass , log file read , monitoring and analysis operations.
+first time Linkedin use this 2011
 
-Created for [this YouTube tutorial](https://www.youtube.com/watch?v=EiDLKECLcZw).
+see you tube vidio [this YouTube tutorial](https://www.youtube.com/watch?v=EiDLKECLcZw).
 
 A kafka producer/consumer proof of concept using node.
 
@@ -16,5 +18,6 @@ A kafka producer/consumer proof of concept using node.
 * `npm install` - installs npm dependencies.
 * `./scripts/start-kafka.sh` - starts kafka inside docker container.
 * `./scripts/create-topic.sh` - creates kafka topic.
+* cmd run to comsumer and produser
 * `npm run start:producer` - starts producer.
 * `npm run start:consumer` - starts consumer.
