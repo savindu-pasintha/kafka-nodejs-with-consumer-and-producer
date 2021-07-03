@@ -1,6 +1,4 @@
-# kafka-producer-consumer
-£kafca used for realtime milions of streaming and monitoring , event acces, message pass , log file read , monitoring and analysis operations.
-first time Linkedin use this 2011
+# kafka-producer-consumer kafca used for realtime milions of streaming and monitoring , event acces, message pass , log file read , monitoring and analysis operations.#first time Linkedin use this 2011
 
 see you tube vidio [this YouTube tutorial](https://www.youtube.com/watch?v=EiDLKECLcZw).
 
